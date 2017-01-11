@@ -14,3 +14,4 @@ public class MainActivity extends AppCompatActivity {
 //Hei Birger
 //djwqofjewofw
 //faen ta deg!!
+//hei rudi
